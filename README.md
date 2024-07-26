@@ -62,7 +62,7 @@ Open the start menu, search for "Environment Variables", and select "Edit the sy
 To run the application, navigate to the project directory and run the `main.py` script:
 
 ```bash
-python main.py
+ poetry run python main.py
 ```
 
 This will execute the sequence of language models and print the result.
